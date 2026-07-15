@@ -1,0 +1,227 @@
+[
+  {
+    "source": "employee_policies.md",
+    "section": "Employee Discount",
+    "text": "Employee Discount Active associates receive 25 percent off regular priced merchandise and 10 percent off already discounted merchandise. The discount is applied with code EMP25 at the register and requires the associate to scan their badge. The discount extends to a spouse or domestic partner and to dependent children listed in the HR system."
+  },
+  {
+    "source": "employee_policies.md",
+    "section": "Discount Exclusions",
+    "text": "Discount Exclusions The employee discount does not apply to gift cards, licensed lottery products, prepaid wireless, or major appliances already on promotional pricing. It cannot be combined with a price match on the same item. Abuse of the discount, including purchasing for resale or for non household members, is grounds for termination."
+  },
+  {
+    "source": "employee_policies.md",
+    "section": "Scheduling and Time Off",
+    "text": "Scheduling and Time Off Schedules post 14 days in advance in the workforce system. Shift swaps require both associates to accept in the app and a manager to approve. Requests for time off must be submitted at least 21 days ahead. Blackout periods apply from the Friday before Thanksgiving through December 26 and no discretionary time off is approved during that window."
+  },
+  {
+    "source": "employee_policies.md",
+    "section": "Meal and Rest Breaks",
+    "text": "Meal and Rest Breaks Associates working more than six hours receive an unpaid 30 minute meal break and two paid 15 minute rest breaks. Breaks must be clocked. Working through a meal break requires manager approval and is recorded as an exception."
+  },
+  {
+    "source": "employee_policies.md",
+    "section": "Dress Code",
+    "text": "Dress Code Associates wear the issued polo or button down with the name badge visible, closed toe shoes, and no visible offensive graphics. Denim without holes is acceptable. Safety shoes are required for anyone working in receiving or operating equipment."
+  },
+  {
+    "source": "loyalty_program.md",
+    "section": "Program Overview",
+    "text": "Program Overview The rewards program is free to join and requires only an email address and phone number. Members earn 1 point for every $1 spent before tax. Points post to the account within 24 hours of the transaction settling."
+  },
+  {
+    "source": "loyalty_program.md",
+    "section": "Redemption Rate",
+    "text": "Redemption Rate Every 500 points converts to a $5 reward certificate. Certificates are issued automatically at the close of the earning cycle and expire 90 days after issue. Points themselves expire after 18 months of account inactivity."
+  },
+  {
+    "source": "loyalty_program.md",
+    "section": "Membership Tiers",
+    "text": "Membership Tiers There are three tiers based on trailing twelve month spend. Bronze is the entry tier for members spending under $500. Silver applies from $500 to $1,499 and adds a 5 percent birthday discount. Gold applies at $1,500 and above and includes free standard shipping, early access to sales, and a dedicated support line."
+  },
+  {
+    "source": "loyalty_program.md",
+    "section": "Tier Evaluation",
+    "text": "Tier Evaluation Tiers are recalculated on the first day of each month based on the trailing twelve months. A member who drops below a threshold keeps their tier for a 60 day grace period before downgrading."
+  },
+  {
+    "source": "loyalty_program.md",
+    "section": "Missing Points",
+    "text": "Missing Points If points do not appear after 24 hours, the associate submits a points adjustment through the LOY-3300 form with the receipt barcode. Adjustments are approved within two business days. Points cannot be granted for purchases older than 60 days."
+  },
+  {
+    "source": "loyalty_program.md",
+    "section": "Stacking Rules",
+    "text": "Stacking Rules Reward certificates can be combined with sale prices and with the employee discount but cannot be combined with a price match adjustment on the same line item."
+  },
+  {
+    "source": "pos_troubleshooting.md",
+    "section": "Error E-102 Card Reader Timeout",
+    "text": "Error E-102 Card Reader Timeout Error E-102 indicates the card reader lost communication with the terminal. Unplug the reader cable from the back of the terminal, wait ten seconds, and reconnect. If the error persists, reboot the terminal from the manager menu. Do not power cycle the terminal from the wall outlet, which can corrupt the offline transaction cache."
+  },
+  {
+    "source": "pos_troubleshooting.md",
+    "section": "Error E-215 Offline Mode",
+    "text": "Error E-215 Offline Mode Error E-215 means the terminal has lost its network connection and has entered offline mode. Transactions continue to process and queue locally. The queue holds a maximum of 200 transactions. When the network returns, the terminal syncs automatically. If the queue reaches capacity, stop taking card payments and switch to the backup terminal."
+  },
+  {
+    "source": "pos_troubleshooting.md",
+    "section": "Error E-330 Drawer Will Not Open",
+    "text": "Error E-330 Drawer Will Not Open Error E-330 is a cash drawer solenoid fault. Verify the drawer cable is seated in port RJ-12 on the underside of the terminal. Use the manual release key only with a supervisor present, and record the opening in the exception log."
+  },
+  {
+    "source": "pos_troubleshooting.md",
+    "section": "Receipt Printer Jams",
+    "text": "Receipt Printer Jams For a paper jam, open the printer lid, remove the partial roll, and clear any torn paper from the cutter. Reload with the glossy side facing the print head. A printer that feeds blank paper is loaded upside down."
+  },
+  {
+    "source": "pos_troubleshooting.md",
+    "section": "Terminal Reboot Procedure",
+    "text": "Terminal Reboot Procedure Reboot only from Manager Menu, option 9, Restart Terminal. A proper reboot flushes the offline queue first. Hard power cycling risks losing queued transactions and requires a reconciliation ticket."
+  },
+  {
+    "source": "pos_troubleshooting.md",
+    "section": "Escalation",
+    "text": "Escalation If an error code is not listed here, capture the code, the terminal number, and the time, and open a ticket with the help desk. Terminal hardware failures are replaced within one business day under the service contract."
+  },
+  {
+    "source": "price_match.md",
+    "section": "Competitor Price Match",
+    "text": "Competitor Price Match We match the advertised price of any local competitor with a physical storefront within 25 miles, and of the following online retailers only: major national electronics and general merchandise sites listed in the approved competitor list. The competitor item must be identical in brand, model number, color, and size, and must be currently in stock at the competitor."
+  },
+  {
+    "source": "price_match.md",
+    "section": "Exclusions",
+    "text": "Exclusions We do not match marketplace or third party seller listings, auction sites, prices requiring a membership or subscription to see, doorbuster or limited quantity promotions, clearance or open box pricing, typographical errors, or prices from sellers that do not have physical inventory. Bundle pricing is not matched against single item pricing."
+  },
+  {
+    "source": "price_match.md",
+    "section": "Price Adjustment After Purchase",
+    "text": "Price Adjustment After Purchase If our own price drops within 14 days of the customer's purchase, the customer is entitled to a one time adjustment refunding the difference to the original payment method. The customer must present the receipt or the order number. Adjustments are not available on clearance markdowns or on items purchased with a price match."
+  },
+  {
+    "source": "price_match.md",
+    "section": "Approval Thresholds",
+    "text": "Approval Thresholds Associates may approve a price match of up to $50 difference without escalation. Differences between $50 and $200 require a supervisor override using the PM-0090 override code. Anything above $200 requires store manager approval and is logged for review."
+  },
+  {
+    "source": "price_match.md",
+    "section": "Documentation",
+    "text": "Documentation The associate must capture evidence of the competitor price, either a screenshot with a visible date or the printed circular, and attach it to the transaction. Price matches without attached evidence are reversed during weekly audit."
+  },
+  {
+    "source": "product_catalog.md",
+    "section": "NX-4400 Espresso Machine",
+    "text": "NX-4400 Espresso Machine The NX-4400 is a 15 bar pump espresso machine with a 1.8 liter removable water tank, a built in conical burr grinder, and a steam wand for milk texturing. It draws 1350 watts and measures 12 by 14 by 15 inches. Retail price is $449.99. The NX-4400 ships with a portafilter, two baskets, and a tamper. Descaling is recommended every 90 days."
+  },
+  {
+    "source": "product_catalog.md",
+    "section": "NX-2200 Drip Coffee Maker",
+    "text": "NX-2200 Drip Coffee Maker The NX-2200 is a 12 cup programmable drip brewer with a thermal carafe and a 24 hour delay start. Retail price is $89.99. It uses a size 4 cone filter. The warming plate is disabled when the thermal carafe is installed."
+  },
+  {
+    "source": "product_catalog.md",
+    "section": "VT-880 Cordless Vacuum",
+    "text": "VT-880 Cordless Vacuum The VT-880 cordless stick vacuum runs 45 minutes on a full charge and recharges in 3.5 hours. It weighs 6.2 pounds and includes a crevice tool and a motorized pet brush. Retail price is $329.99. The dust bin capacity is 0.7 liters. Replacement filters are sold under SKU VT-880-FLT."
+  },
+  {
+    "source": "product_catalog.md",
+    "section": "AB-1500 Air Purifier",
+    "text": "AB-1500 Air Purifier The AB-1500 covers rooms up to 500 square feet and uses a three stage filter with a true HEPA layer. Retail price is $199.99. The filter indicator resets by holding the mode button for five seconds. Replacement filter SKU is AB-1500-HEPA and should be changed every six months."
+  },
+  {
+    "source": "product_catalog.md",
+    "section": "Compatibility Notes",
+    "text": "Compatibility Notes The VT-880 battery is not compatible with the older VT-660. The NX-4400 portafilter fits the NX-4600 but not the NX-2200, which is not an espresso machine. Accessories are listed on the product page under the Compatible Items tab."
+  },
+  {
+    "source": "returns_policy.md",
+    "section": "Standard Return Window",
+    "text": "Standard Return Window Customers may return most merchandise within 30 days of the purchase date for a full refund to the original payment method. A valid receipt or the order number from the customer's account is required. Items returned between day 31 and day 60 are eligible for store credit only, issued at the current selling price."
+  },
+  {
+    "source": "returns_policy.md",
+    "section": "Condition Requirements",
+    "text": "Condition Requirements Returned merchandise must be unused, in its original packaging, and include all manuals, cables, and accessories that shipped with it. Associates should inspect for missing components before accepting a return. Merchandise showing wear beyond normal inspection is refused and logged under reason code RTN-DAMAGE."
+  },
+  {
+    "source": "returns_policy.md",
+    "section": "Final Sale Categories",
+    "text": "Final Sale Categories The following categories are final sale and cannot be returned: clearance items marked with a yellow tag, opened consumables, gift cards, and personalized or engraved goods. Seasonal decor purchased after December 20 is also final sale."
+  },
+  {
+    "source": "returns_policy.md",
+    "section": "Restocking Fees",
+    "text": "Restocking Fees Large appliances and furniture over $500 carry a 15 percent restocking fee unless the item is defective. Defective merchandise never incurs a restocking fee."
+  },
+  {
+    "source": "returns_policy.md",
+    "section": "RMA Process for Online Orders",
+    "text": "RMA Process for Online Orders Online returns require a Return Merchandise Authorization. The associate opens the RMA-4471 workflow in the order management system, selects the reason code, and prints the prepaid label. The RMA number must be written on the outside of the carton. Refunds post 3 to 5 business days after the warehouse scans the return."
+  },
+  {
+    "source": "returns_policy.md",
+    "section": "Receipt Lookup",
+    "text": "Receipt Lookup If the customer has no receipt, associates can look up the transaction with the last four digits of the payment card within the 90 day lookup window. Cash purchases without a receipt are refunded as store credit at the lowest sale price of the prior 30 days."
+  },
+  {
+    "source": "shipping_delivery.md",
+    "section": "Free Shipping Threshold",
+    "text": "Free Shipping Threshold Standard ground shipping is free on orders totaling $75 or more after discounts and before tax. Orders below the threshold are charged a flat $6.95. Loyalty members at the Gold tier receive free standard shipping on every order with no minimum."
+  },
+  {
+    "source": "shipping_delivery.md",
+    "section": "Delivery Speeds",
+    "text": "Delivery Speeds Standard ground delivers in 3 to 6 business days. Expedited two-day shipping is $14.95. Overnight shipping is $29.95 and is not available to PO boxes, Alaska, Hawaii, or US territories."
+  },
+  {
+    "source": "shipping_delivery.md",
+    "section": "Order Cutoff Time",
+    "text": "Order Cutoff Time Orders placed before 2:00 PM Eastern on a business day ship the same day. Orders placed after the cutoff, on weekends, or on a company holiday ship the next business day. The cutoff is enforced by the warehouse management system and cannot be overridden by store associates."
+  },
+  {
+    "source": "shipping_delivery.md",
+    "section": "Ship From Store",
+    "text": "Ship From Store When a store fulfills an online order, the associate picks the item, scans it into the SFS-220 handoff queue, and stages it for carrier pickup. Carrier pickup occurs daily at 4:00 PM. Items not staged by 3:45 PM roll to the next day."
+  },
+  {
+    "source": "shipping_delivery.md",
+    "section": "Damaged in Transit",
+    "text": "Damaged in Transit If a package arrives damaged, the customer files a claim within 14 days of delivery. The associate opens a transit claim, uploads photos, and issues an immediate replacement without waiting for carrier resolution. Do not ask the customer to return a transit damaged item."
+  },
+  {
+    "source": "shipping_delivery.md",
+    "section": "Address Changes",
+    "text": "Address Changes Shipping addresses can be changed only while the order is in Pending status. Once the order moves to Picked, the address is locked and the order must be cancelled and re-placed."
+  },
+  {
+    "source": "warranty_and_store_ops.md",
+    "section": "Manufacturer Warranty",
+    "text": "Manufacturer Warranty Most electronics and small appliances carry a one year limited manufacturer warranty covering defects in materials and workmanship. The warranty does not cover accidental damage, liquid damage, cosmetic wear, or damage from using the product outside its stated purpose. Proof of purchase is required for any warranty claim."
+  },
+  {
+    "source": "warranty_and_store_ops.md",
+    "section": "Extended Protection Plan",
+    "text": "Extended Protection Plan The extended protection plan adds two or three additional years of coverage beyond the manufacturer warranty and includes accidental damage from handling. The plan must be purchased within 30 days of the item. Plan claims are filed through the provider portal, not through the store. A customer who wants to cancel the plan receives a prorated refund within the first 60 days."
+  },
+  {
+    "source": "warranty_and_store_ops.md",
+    "section": "Defective Merchandise Within 30 Days",
+    "text": "Defective Merchandise Within 30 Days An item that fails within the first 30 days is treated as a standard return and is exchanged or refunded in store. Do not send the customer to the manufacturer during the first 30 days. After 30 days, direct the customer to the manufacturer warranty or the protection plan, whichever applies."
+  },
+  {
+    "source": "warranty_and_store_ops.md",
+    "section": "Store Hours",
+    "text": "Store Hours Stores open at 9:00 AM and close at 9:00 PM Monday through Saturday, and open 10:00 AM to 7:00 PM on Sunday. Stores close at 6:00 PM on Christmas Eve and are closed entirely on Thanksgiving Day, Christmas Day, and Easter Sunday."
+  },
+  {
+    "source": "warranty_and_store_ops.md",
+    "section": "Closing Procedure",
+    "text": "Closing Procedure At close, the manager on duty counts the safe, runs the end of day report, verifies the alarm is armed, and confirms all associates have clocked out. Cash over or short by more than $20 requires an incident report the same night."
+  },
+  {
+    "source": "warranty_and_store_ops.md",
+    "section": "Inventory Cycle Counts",
+    "text": "Inventory Cycle Counts Cycle counts run weekly for high shrink categories and monthly for everything else. Variances above 2 percent of on hand value trigger a recount before any adjustment is posted to the inventory system."
+  }
+]
